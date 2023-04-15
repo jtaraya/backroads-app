@@ -47,7 +47,7 @@ export const tours = [
     info: 'Put your daily grind behind and act on your wanderlust now; we invite you to join us for an exhilarating adventure across Great Himalayas that could utterly change your life.',
     location: 'china',
     duration: 6,
-    cost: 2100,
+    cost: '$2,100',
   },
   {
     id: 2,
@@ -57,7 +57,7 @@ export const tours = [
     info: 'From Jakarta, you will venture to the curiously European-like city of Bandung (the “Paris of Java”) en route to Yogyakarta, home to the islands monstrous volcanoes. Then wrap it all up on the gorgeous Balinese beaches of Sanur.',
     location: 'indonesia',
     duration: 11,
-    cost: 1400,
+    cost: '$1,400',
   },
   {
     id: 3,
@@ -67,7 +67,7 @@ export const tours = [
     info: 'With so much to see and do, planning a Hong Kong itinerary is vital to making the most of your vacation.',
     location: 'hong kong',
     duration: 8,
-    cost: 5000,
+    cost: '$5,000',
   },
   {
     id: 4,
@@ -77,6 +77,6 @@ export const tours = [
     info: ' Explore the wildlife with Big Fives and signature travel activities such as hiking, trekking to Point Lenana peak, taking a Dhow sailing on the Indian Ocean. That will be an amazing experience!.',
     location: 'kenya',
     duration: 20,
-    cost: 7000,
+    cost: '$7,000',
   },
 ];
